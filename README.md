@@ -167,9 +167,10 @@ Run both backend and frontend concurrently:
 npm run dev
 ```
 
-- **Frontend Application:** [http://localhost:5173](http://localhost:5173)
-- **Backend REST API:** [http://localhost:5000/api](http://localhost:5000/api)
-- **Health Check:** [http://localhost:5000/api/health](http://localhost:5000/api/health)
+- **Frontend Application (Local):** [http://localhost:5173](http://localhost:5173)
+- **Backend REST API (Local):** [http://localhost:5000/api](http://localhost:5000/api)
+- **Live Production API (Render):** [https://exam-backend-mxd7.onrender.com/api](https://exam-backend-mxd7.onrender.com/api)
+- **Live Health Check:** [https://exam-backend-mxd7.onrender.com/api/health](https://exam-backend-mxd7.onrender.com/api/health)
 
 ---
 
